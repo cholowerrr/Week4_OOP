@@ -111,7 +111,7 @@ public class PayrollTest {
                     break;
 
                 case 7: // Exit
-                    System.out.println("\nExiting system. Goodbye!");
+                    System.out.println("\nExiting system Heyts Hey You Payroll System. Goodbye!");
                     scanner.close();
                     System.exit(0);
                     break;
